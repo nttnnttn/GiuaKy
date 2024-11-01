@@ -1,0 +1,29 @@
+
+
+1. **User Story 1: Thêm sản phẩm vào kho**
+   - Là một nhân viên kho,
+   - Tôi muốn thêm sản phẩm mới vào kho,
+   - Để tôi có thể theo dõi số lượng hàng tồn kho chính xác.
+
+2. **User Story 2: Cập nhật thông tin sản phẩm**
+   - Là một nhân viên kho,
+   - Tôi muốn cập nhật thông tin sản phẩm như giá cả và số lượng,
+   - Để đảm bảo thông tin luôn chính xác và cập nhật.
+
+3. **User Story 3: Kiểm tra hàng tồn kho**
+   - Là một quản lý kho,
+   - Tôi muốn kiểm tra số lượng hàng tồn kho hiện tại,
+   - Để có thể đưa ra quyết định đặt hàng hoặc tiêu thụ hàng hóa kịp thời.
+
+4. **User Story 4: Tìm kiếm sản phẩm**
+   - Là một nhân viên kho,
+   - Tôi muốn tìm kiếm sản phẩm theo tên hoặc mã sản phẩm,
+   - Để tôi có thể nhanh chóng xác định vị trí hàng hóa trong kho.
+
+5. **User Story 5: Báo cáo hàng tồn kho**
+   - Là một quản lý kho,
+   - Tôi muốn tạo báo cáo về hàng tồn kho định kỳ,
+   - Để có cái nhìn tổng quan về tình hình kho và đưa ra kế hoạch kinh doanh.
+
+Kết luận:
+Các user story này giúp xác định nhu cầu và quy trình làm việc của nhân viên trong ứng dụng quản lý kho, từ đó nâng cao hiệu quả và chính xác trong công việc.
